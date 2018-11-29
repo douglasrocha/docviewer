@@ -1,0 +1,42 @@
+{
+  "name": "docviewer",
+  "version": "0.0.1",
+  "description": "A react documentation viewer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasrocha/docviewer.git"
+  },
+  "keywords": [
+    "react",
+    "documentation",
+    "viewer",
+    "docviewer",
+    "component"
+  ],
+  "author": "Douglas Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/douglasrocha/docviewer/issues"
+  },
+  "homepage": "https://github.com/douglasrocha/docviewer#readme",
+  "dependencies": {
+    "jss": "^9.8.7",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-jss": "^8.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-minify": "^3.1.0"
+  }
+}
